@@ -1,4 +1,4 @@
-package org.example;
+package PG13.Tetris;
 
 import javafx.application.Application;
 import javafx.scene.Scene;

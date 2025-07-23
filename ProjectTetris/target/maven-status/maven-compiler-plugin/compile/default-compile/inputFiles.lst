@@ -1,1 +1,11 @@
+/Users/User/Documents/3815ICT/ProjectTetris/src/main/java/PG13/Tetris/App.java
+/Users/User/Documents/3815ICT/ProjectTetris/src/main/java/PG13/Tetris/Controller/GameController.java
+/Users/User/Documents/3815ICT/ProjectTetris/src/main/java/PG13/Tetris/Controller/MainMenuController.java
+/Users/User/Documents/3815ICT/ProjectTetris/src/main/java/PG13/Tetris/model/Board.java
+/Users/User/Documents/3815ICT/ProjectTetris/src/main/java/PG13/Tetris/model/GameState.java
+/Users/User/Documents/3815ICT/ProjectTetris/src/main/java/PG13/Tetris/model/Score.java
+/Users/User/Documents/3815ICT/ProjectTetris/src/main/java/PG13/Tetris/model/Tetromino.java
+/Users/User/Documents/3815ICT/ProjectTetris/src/main/java/PG13/Tetris/service/GameLogicService.java
+/Users/User/Documents/3815ICT/ProjectTetris/src/main/java/PG13/Tetris/service/ScoreService.java
+/Users/User/Documents/3815ICT/ProjectTetris/src/main/java/PG13/Tetris/view/GameView.java
 /Users/User/Documents/3815ICT/ProjectTetris/src/main/java/org/example/Main.java
